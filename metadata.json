@@ -1,0 +1,6 @@
+{
+  "name": "MoneyWay Football 1X2 - Arbitrage & Volume Analyzer",
+  "description": "Scraper en direct des flux d'argent Betfair 1X2 (Arbworld), analyse statistique avancée des volumes, détection de smart money et visualisations graphiques interactives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
